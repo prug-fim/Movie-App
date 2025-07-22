@@ -9,9 +9,6 @@ Here's a cleaner, more concise GitHub README for your movie application:
 A modern movie discovery platform built with React, Appwrite, and Tailwind CSS.
 
 [![Watch Tutorial](https://img.shields.io/badge/Watch_Tutorial-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/dCLhUialKPQ)
-[![Join Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/n6EdbFJ)
-
-![Moodflix Screenshot](https://github.com/user-attachments/assets/acb3c1e6-04ef-4787-a602-f16abe9a04fe)
 
 ## ✨ Features
 
